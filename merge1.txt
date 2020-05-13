@@ -1,1 +1,2 @@
-Hi this is my file to test the conflict
+Hi
+This is my first file to test merging conflict
