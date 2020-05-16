@@ -1,1 +1,2 @@
 Hi This is my fist file to learn merge conflict
+adding the update from master branch
