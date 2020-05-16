@@ -1,3 +1,6 @@
 Hi This is my fist file to learn merge conflict
+<<<<<<< HEAD
 adding the update from master branch
+=======
 Editing teh file in conflict1 branch
+>>>>>>> conflict1
